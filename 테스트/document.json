@@ -1,0 +1,583 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "F9EC2086-8D96-40A7-9783-7EB87F45825B",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "7e2b1f10-4db4-11ec-9db2-c57428f6ae69",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "47984B1E-0492-4859-9E79-2A098C471F91",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Medium.otf",
+      "options": 6,
+      "postscriptNames": [
+        "NotoSansCJKkr-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "808D0333-C03F-4288-BF61-A4141AAD0C82",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "80FAA7C5-FA17-48FE-B56E-EA59B687FEC2",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Regular.otf",
+      "options": 6,
+      "postscriptNames": [
+        "NotoSansCJKkr-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8360F6DA-63CC-473D-A109-FC622BA09FD7",
+      "fontFamilyName": "Helvetica",
+      "fontFileName": "Helvetica.ttc",
+      "options": 0,
+      "postscriptNames": [
+        "Helvetica",
+        "Helvetica-Bold",
+        "Helvetica-BoldOblique",
+        "Helvetica-Light",
+        "Helvetica-LightOblique",
+        "Helvetica-Oblique"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "906F9360-3825-45E1-8D27-199CDE9D175B",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-DemiLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-DemiLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C1C95F28-245F-4B85-8B6E-C83DBBE7CCC6",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CEE3EF52-83F2-4E29-A1E6-854497539F19",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NotoSansCJKkr-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E31DC1E0-B943-476C-86DC-700053456C6F",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Light"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "1E899E57-E12A-4734-A62C-E2C063BDBB8A",
+      "libraryID": "55E2B32D-89FA-478F-9389-4143ADCAEE10",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A64624EE-53B9-44F1-A50B-53EDB6853A1A",
+        "name": "TAROTMOON / 01 Android / 02 Light / 02 Center Aligned / 11 Button / Opacity 30",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "D0EA6E71-1BFF-4B70-ABD3-4ADB17463D79",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "NotoSansCJKkr-Medium",
+                  "size": 14
+                }
+              },
+              "MSAttributedStringTextTransformAttribute": 1,
+              "kerning": 0.75,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0
+              }
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "missingLibraryFontAcknowledged": false,
+      "remoteStyleID": "AF9228AE-0408-46B2-A30F-A82C79AA5667",
+      "sourceLibraryName": "190909_tarotmoon_wireframe",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "37D806C3-3268-432D-930A-0E648434CE97",
+      "libraryID": "55E2B32D-89FA-478F-9389-4143ADCAEE10",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A8326F2E-9BC0-4C54-97B0-C5A5C3504379",
+        "name": "TAROTMOON / 01 Android / 01 Dark / 01 Left Aligned / 10 Body 2 / Opacity 70",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "FD4D209D-1C5F-4E8F-B920-8CDEB96FB356",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 0.7,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "NotoSansCJKkr-Regular",
+                  "size": 14
+                }
+              },
+              "kerning": 0.25,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 20,
+                "minimumLineHeight": 20
+              }
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "missingLibraryFontAcknowledged": false,
+      "remoteStyleID": "6AF28FE0-FA97-4794-928D-911DC9A45BE5",
+      "sourceLibraryName": "190909_tarotmoon_wireframe",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "F2B3923A-C382-495D-8036-FE38C35AEE0C",
+      "libraryID": "55E2B32D-89FA-478F-9389-4143ADCAEE10",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "90F77246-B9C5-4715-8812-F458B3EAE7AE",
+        "name": "TAROTMOON / 01 Android / 01 Dark / 01 Left Aligned / 07 Sub Title 1 / Opacity 100",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "46AA1EA5-492C-484D-88B7-AD7ADBD9A740",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "NotoSansCJKkr-Regular",
+                  "size": 16
+                }
+              },
+              "kerning": 0.1500000059604645,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 24,
+                "minimumLineHeight": 24
+              }
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "missingLibraryFontAcknowledged": false,
+      "remoteStyleID": "92ABF8F5-4C41-415A-9D28-EB18305A530D",
+      "sourceLibraryName": "190909_tarotmoon_wireframe",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "955A3E52-91DB-483A-A764-A06CC8639E2F",
+      "libraryID": "55E2B32D-89FA-478F-9389-4143ADCAEE10",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9E86C15C-1EDE-482F-BA5A-7A28298B3A70",
+        "name": "TAROTMOON / 01 Android / 01 Dark / 01 Left Aligned / 06 Title 2 / Opacity 100",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "903E9FF3-EE05-4F5C-9DE9-14B322E9F846",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "NotoSansCJKkr-Medium",
+                  "size": 20
+                }
+              },
+              "kerning": 0.1500000059604645,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0
+              }
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "missingLibraryFontAcknowledged": false,
+      "remoteStyleID": "FEABA040-A3A2-4339-A13A-CF93303CB176",
+      "sourceLibraryName": "190909_tarotmoon_wireframe",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "1FCEEA7E-F377-4608-BDBE-B78772224BAE",
+      "libraryID": "55E2B32D-89FA-478F-9389-4143ADCAEE10",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "1B982398-19BC-47C3-8217-F2021EB47E75",
+        "name": "TAROTMOON / 01 Android / 01 Dark / 01 Left Aligned / 10 Body 2 / Opacity 30",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "217B0E7F-A836-482A-8D5B-59DCBE545FD9",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "NotoSansCJKkr-Regular",
+                  "size": 14
+                }
+              },
+              "kerning": 0.25,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 20,
+                "minimumLineHeight": 20
+              }
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "missingLibraryFontAcknowledged": false,
+      "remoteStyleID": "992AF2FC-1247-4792-8395-8DDC528C3F8D",
+      "sourceLibraryName": "190909_tarotmoon_wireframe",
+      "symbolPrivate": false
+    }
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "51173A3E-4FAF-11EC-9DB2-CE7628D7D704",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "80",
+    "build": 134463,
+    "version": 136
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "471B3E3E-4FAF-11EC-9DB2-CE7628D7D908",
+    "objects": [
+    ]
+  }
+}
