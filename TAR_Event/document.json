@@ -1,0 +1,94 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "280ECD20-DE84-4A8C-AE7B-FE578A05FF89",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 2,
+  "do_objectID": "8e710a99-acdc-430e-9e55-72ee16921d33",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "24356523-BF20-497A-8917-E0B82BFA84FD",
+      "fontFamilyName": "Gmarket Sans TTF",
+      "fontFileName": "GmarketSansTTFMedium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "GmarketSansTTFMedium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "285ED962-BE7E-4554-BD7B-F03F24942FE4",
+      "fontFamilyName": "Gmarket Sans TTF",
+      "fontFileName": "GmarketSansTTFLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "GmarketSansTTFLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "39E74FA5-55A4-4390-84C3-E3EF3655D9D5",
+      "fontFamilyName": "Gmarket Sans TTF",
+      "fontFileName": "GmarketSansTTFBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "GmarketSansTTFBold"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "C96D2DD1-6822-4867-ABF6-FF6BA1332C23",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "79.1",
+    "build": 133344,
+    "version": 136
+  },
+  "pages": [
+    "메인이미지(규격)"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "E15334CE-475A-4627-AB18-9925DCAB1410",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

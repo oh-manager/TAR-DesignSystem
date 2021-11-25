@@ -1,0 +1,556 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "448FC669-00E1-4C3F-8C3D-7C18295CD110",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 299,
+    "width": 432,
+    "x": 32,
+    "y": -75
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "D59153DB-E602-4F17-8E7D-AC9DDDEFBEDE"
+    },
+    {
+      "class": "oval",
+      "id": "E3122646-020D-4FAA-A854-5C0C6F0CF2E8"
+    },
+    {
+      "class": "oval",
+      "id": "0B884617-DC6D-4942-87A8-E25E6FAF6445"
+    },
+    {
+      "class": "oval",
+      "id": "46152EAB-83AB-4923-BB94-91CC5D6CBF06"
+    },
+    {
+      "class": "oval",
+      "id": "D13F0717-D116-4BF0-ACB9-24A6ACDA44EA"
+    },
+    {
+      "class": "oval",
+      "id": "45F6D2AF-2E09-4165-A0AC-2252C9BFE0A2"
+    },
+    {
+      "class": "oval",
+      "id": "3690006E-6710-4194-BDA9-9BC759E787EC"
+    },
+    {
+      "class": "oval",
+      "id": "465B817C-A4F6-4840-A43D-A758A1499E64"
+    },
+    {
+      "class": "oval",
+      "id": "276F8C73-D5CF-4ED5-8749-FDBE48B2D655"
+    },
+    {
+      "class": "oval",
+      "id": "A81E949B-B7DE-4D38-BC18-3368D315D4B2"
+    },
+    {
+      "class": "oval",
+      "id": "E6694AA2-D520-4BB8-970B-709EE7743E53"
+    },
+    {
+      "class": "oval",
+      "id": "ED277A9F-5BD0-4887-9CD3-E165CB325D1C"
+    },
+    {
+      "class": "oval",
+      "id": "9D258BC1-83FA-453E-B6A6-63AA834BFCAF"
+    },
+    {
+      "class": "oval",
+      "id": "0162CAA1-EF52-49A3-BE30-5F6843FD6246"
+    },
+    {
+      "class": "oval",
+      "id": "5D282F8C-FB4A-4DC8-875C-2A53C0B85D5E"
+    },
+    {
+      "class": "oval",
+      "id": "9286E545-7161-4B57-9CCD-BCB196247316"
+    },
+    {
+      "class": "oval",
+      "id": "5640F6D9-FF11-41AE-8D58-244CE332130C"
+    },
+    {
+      "class": "oval",
+      "id": "041F2A35-12E4-43FB-98C9-D4C282C43BAC"
+    },
+    {
+      "class": "oval",
+      "id": "D97DA341-F3AB-4CF6-B7F1-2F8B80FB4B0E"
+    },
+    {
+      "class": "oval",
+      "id": "35AB988F-1E05-430A-B18A-CC222CBF7B0B"
+    },
+    {
+      "class": "oval",
+      "id": "583A9410-E637-486B-A991-B1CE96100715"
+    },
+    {
+      "class": "oval",
+      "id": "D7AC55B1-CC69-466E-9DCA-22DC786EA543"
+    },
+    {
+      "class": "oval",
+      "id": "D17F6F31-84FD-477D-BAF8-DC22245114A2"
+    },
+    {
+      "class": "oval",
+      "id": "98D92409-071F-4BE3-A1BE-822347FE05B0"
+    },
+    {
+      "class": "oval",
+      "id": "EC95AF51-93A3-4F5D-B70D-E825395B474F"
+    },
+    {
+      "class": "oval",
+      "id": "18780732-21EB-4C48-8544-96EA707F2C97"
+    },
+    {
+      "class": "oval",
+      "id": "E8C24D9B-4BD2-40C3-BD66-53279AA50F75"
+    },
+    {
+      "class": "oval",
+      "id": "6B1E1BD2-9DFB-4B2D-A22D-AC0C046AC32F"
+    },
+    {
+      "class": "oval",
+      "id": "609C3F46-383D-4F32-9A42-133CB935CDF0"
+    },
+    {
+      "class": "oval",
+      "id": "9BA15A5C-ABF5-4C21-9D7F-D6B15207973B"
+    },
+    {
+      "class": "oval",
+      "id": "3020E417-F996-4445-82FD-00515FA51A13"
+    },
+    {
+      "class": "oval",
+      "id": "C6A2A586-7A20-4163-865D-27D50C5695E1"
+    },
+    {
+      "class": "oval",
+      "id": "68D6B70E-6A1D-48C8-91AC-9AE503986BE5"
+    },
+    {
+      "class": "oval",
+      "id": "576619F0-9077-42E9-B4D1-3B1681028E05"
+    },
+    {
+      "class": "oval",
+      "id": "53175A6A-1F03-4384-8CDF-C86094FC4A13"
+    },
+    {
+      "class": "oval",
+      "id": "A07C3660-7F3F-4CCF-8610-1A050F0C28AB"
+    },
+    {
+      "class": "oval",
+      "id": "D5E78A49-C4F4-4803-B02C-734DC6F37709"
+    },
+    {
+      "class": "oval",
+      "id": "1B0FA24F-C3DC-4936-8E29-27466847D594"
+    },
+    {
+      "class": "oval",
+      "id": "8DE36D1F-4174-42EF-A92B-F8545D0E3892"
+    },
+    {
+      "class": "oval",
+      "id": "F5E6FED4-356B-4747-BFEB-62FAB554275E"
+    },
+    {
+      "class": "oval",
+      "id": "4EC1A76F-215E-4D25-9BF5-86B692159502"
+    },
+    {
+      "class": "oval",
+      "id": "EDDCD450-DAB7-4C1D-AE40-88A1A152860B"
+    },
+    {
+      "class": "oval",
+      "id": "48BD44C4-5BBD-4B7B-A64B-F4BD75B1A7CB"
+    },
+    {
+      "class": "oval",
+      "id": "E181CBF3-CBDB-4081-A724-5518AAABA8B2"
+    },
+    {
+      "class": "oval",
+      "id": "3775162E-C3C7-4364-BB76-8C07E9310FE7"
+    },
+    {
+      "class": "oval",
+      "id": "8C8C92B1-4FC8-4B7A-BA10-FCB08526EC82"
+    },
+    {
+      "class": "oval",
+      "id": "3D9A0C04-1E2C-4080-A735-91709133E685"
+    },
+    {
+      "class": "oval",
+      "id": "F2311CD3-1A3D-4E07-93AD-C8C6369B3BDE"
+    },
+    {
+      "class": "oval",
+      "id": "C7321E86-0DB6-4B99-B618-780DF3293542"
+    },
+    {
+      "class": "oval",
+      "id": "76B46FCB-D7AC-4324-99DD-690812CDFC9C"
+    },
+    {
+      "class": "oval",
+      "id": "0950E5D5-2291-4263-A225-7E970DAD1337"
+    },
+    {
+      "class": "oval",
+      "id": "A7D27DFF-88F1-47AF-8617-9F1072E6E2E5"
+    },
+    {
+      "class": "oval",
+      "id": "E5F242EF-2E20-42E1-B522-66DD3C88E7B3"
+    },
+    {
+      "class": "oval",
+      "id": "F8F29D0A-405A-4A2B-8D6B-29658DDF857F"
+    },
+    {
+      "class": "oval",
+      "id": "9F309B75-A047-4DB3-B5D5-8AF36FA92C1A"
+    },
+    {
+      "class": "oval",
+      "id": "86D8C419-E57F-4694-8164-82AAA035B496"
+    },
+    {
+      "class": "oval",
+      "id": "E53E64B5-C406-4133-9778-315ED5113DD3"
+    },
+    {
+      "class": "oval",
+      "id": "840C5EB4-302F-48C0-B071-48292B57B3E0"
+    },
+    {
+      "class": "oval",
+      "id": "076167C5-624C-4582-A7CE-E4B3FCB8F7E4"
+    },
+    {
+      "class": "oval",
+      "id": "67D65DA0-3806-4EA3-BE6D-AF1985A018FF"
+    },
+    {
+      "class": "oval",
+      "id": "D6205158-D671-429E-8DC3-B050BDBB049D"
+    },
+    {
+      "class": "oval",
+      "id": "8F0C8910-0B40-4423-8B57-82333A6CE13B"
+    },
+    {
+      "class": "oval",
+      "id": "D3849A35-2595-4F1A-BAA9-2C5498521848"
+    },
+    {
+      "class": "oval",
+      "id": "303E323C-1249-413C-B5FB-FFFB5F139ED7"
+    },
+    {
+      "class": "oval",
+      "id": "37ED4F6E-3A80-48AA-B51D-80563A33DAA1"
+    },
+    {
+      "class": "oval",
+      "id": "6D8B75CA-7EB5-4FA9-8D6C-D534FC38F819"
+    },
+    {
+      "class": "oval",
+      "id": "EDE22BBA-B600-4B57-9B85-556F009B9C8D"
+    },
+    {
+      "class": "oval",
+      "id": "16E4F6B2-CCF8-4CB9-A81B-93C039922449"
+    },
+    {
+      "class": "oval",
+      "id": "49BB3192-B993-4B47-9DF8-DA23BFD89D83"
+    },
+    {
+      "class": "oval",
+      "id": "27B3B564-D73B-4CBB-B2D8-32ED1FF9E4A5"
+    },
+    {
+      "class": "oval",
+      "id": "32983986-0870-4BBC-A1DA-F71D8A68BA1F"
+    },
+    {
+      "class": "oval",
+      "id": "2C9C0671-7517-4BD7-9A97-9396ABD3E4EB"
+    },
+    {
+      "class": "oval",
+      "id": "C8499370-F782-43F4-A75E-45A5E0FD1639"
+    },
+    {
+      "class": "oval",
+      "id": "4BE0BC3E-8C55-4447-9873-D952D74941E8"
+    },
+    {
+      "class": "oval",
+      "id": "5ADD165C-0EFC-4DE5-968A-EBEF757444A9"
+    },
+    {
+      "class": "oval",
+      "id": "5F8CF811-B61B-468D-9FEB-D5C2E327B0B5"
+    },
+    {
+      "class": "oval",
+      "id": "E2609A8E-092B-4806-B2A4-C5A83991E8D7"
+    },
+    {
+      "class": "oval",
+      "id": "97609B8C-DDC9-43B3-9453-AC6D24800BDA"
+    },
+    {
+      "class": "oval",
+      "id": "E7C320A2-767B-4FAB-8E45-6C415B60F41E"
+    },
+    {
+      "class": "oval",
+      "id": "2D599E41-B5E3-4C51-9928-32B931701C58"
+    },
+    {
+      "class": "oval",
+      "id": "3C5E8B47-D5F0-4080-B931-52D0F42EC981"
+    },
+    {
+      "class": "oval",
+      "id": "788AD3CE-7DB8-4777-87B1-6BB5707FA76F"
+    },
+    {
+      "class": "oval",
+      "id": "8B119DB6-5BE7-46AB-B924-47AD1D5D5004"
+    },
+    {
+      "class": "oval",
+      "id": "C587B40C-522E-4843-AB96-3144A6957FE4"
+    },
+    {
+      "class": "oval",
+      "id": "47AEF75C-BCDC-4039-9C2D-8595939218C2"
+    },
+    {
+      "class": "oval",
+      "id": "B383F49C-00DE-493D-8B90-84C7E8B4988A"
+    },
+    {
+      "class": "oval",
+      "id": "E45AA6A4-70AC-461B-9929-59BD2F7C133C"
+    },
+    {
+      "class": "oval",
+      "id": "1FB08533-36DB-4536-A742-6E6B40C991D5"
+    },
+    {
+      "class": "oval",
+      "id": "C05EFEF3-EA11-47D6-AC34-94310805D80B"
+    },
+    {
+      "class": "oval",
+      "id": "6C7D2A27-339C-479D-B3E3-AA11FDE4C1DE"
+    },
+    {
+      "class": "oval",
+      "id": "882298FD-D199-4D8F-A8C9-D4D9C9599615"
+    },
+    {
+      "class": "oval",
+      "id": "0DEE5DDA-B5AD-42B7-A811-72F763027DA2"
+    },
+    {
+      "class": "oval",
+      "id": "B7C84CFA-DE4C-4859-9CED-52F508C42C14"
+    },
+    {
+      "class": "oval",
+      "id": "55D1A205-DF2A-4CF3-9122-19AAB02329ED"
+    },
+    {
+      "class": "oval",
+      "id": "59FFC7E4-852C-44D9-8D92-2FCD62749374"
+    },
+    {
+      "class": "oval",
+      "id": "6D8C1E61-E4DC-458F-9C04-BAC98F22FD90"
+    },
+    {
+      "class": "oval",
+      "id": "F64E31A7-813A-48E3-B88E-57050A2DC889"
+    },
+    {
+      "class": "oval",
+      "id": "8B48572A-F858-439A-BD9B-C8B46D66A29D"
+    },
+    {
+      "class": "oval",
+      "id": "17E30FF0-6748-4E66-B2CE-89ECF72D44A3"
+    },
+    {
+      "class": "oval",
+      "id": "43C2016F-DFE2-4497-B9CD-1A5A7C499071"
+    },
+    {
+      "class": "oval",
+      "id": "60E9F06B-CC37-4264-84DC-8BBB3AE5239F"
+    },
+    {
+      "class": "oval",
+      "id": "6C85095A-7BE1-4659-A2CB-6AEF167D891B"
+    },
+    {
+      "class": "oval",
+      "id": "BCE1AA74-8561-4E95-9649-416815DC015B"
+    },
+    {
+      "class": "oval",
+      "id": "6CDE7150-373B-4A44-A7F2-5D6CB3877F46"
+    },
+    {
+      "class": "oval",
+      "id": "A0766E44-5131-46EC-98CF-CAABA0031AE4"
+    },
+    {
+      "class": "oval",
+      "id": "D871E776-C99F-4968-86C9-672C8EDDEE75"
+    },
+    {
+      "class": "oval",
+      "id": "F52ED4A3-3AED-4C50-990C-B1071AB0FDD2"
+    },
+    {
+      "class": "oval",
+      "id": "6DD7EA63-D716-4FDB-91B9-2A56BCEE36EB"
+    },
+    {
+      "class": "oval",
+      "id": "47586016-FC07-460F-814F-BD52308623B8"
+    },
+    {
+      "class": "oval",
+      "id": "10B75FDE-0B60-472D-8D99-780B2C5F5871"
+    },
+    {
+      "class": "oval",
+      "id": "3024A23C-D187-4C1C-BF7C-571ABA0235F1"
+    },
+    {
+      "class": "oval",
+      "id": "76F590B9-6B30-4C73-B4F5-FE2A62888A2B"
+    },
+    {
+      "class": "oval",
+      "id": "D159FFC3-1707-4E46-BF81-92BDDF8D2E1A"
+    },
+    {
+      "class": "oval",
+      "id": "F4E0B764-311C-40C0-8714-AF8D6798BFDF"
+    },
+    {
+      "class": "oval",
+      "id": "F21807D6-1181-4002-8F18-12A76854BF2A"
+    },
+    {
+      "class": "oval",
+      "id": "FAFFDC13-26EF-48DE-9878-CE18567B5015"
+    },
+    {
+      "class": "oval",
+      "id": "DD99EC5B-D808-49CE-8660-2C1072F24ECC"
+    }
+  ],
+  "name": "Group 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.6,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.2000000029802322
+    },
+    "do_objectID": "63C01F50-5F56-4022-B7AE-139B8BED8CF2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
