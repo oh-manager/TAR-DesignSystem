@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9921568627450981,
+    "green": 0.9607843137254902,
+    "red": 0.9725490196078431
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7e2af800-4db4-11ec-9db2-c57428f6ae69",
+  "do_objectID": "22987EC4-D3F6-42FB-9D8D-4BAAE50EA7B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,44 +22,67 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 640,
+    "width": 360,
+    "x": 1113,
+    "y": 216
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AC6FC84C-BEA0-4F56-9500-4426C9CE2B74"
+      "class": "group",
+      "id": "556519BC-6889-44D7-AB5F-4600E25BD7A4"
     },
     {
-      "class": "artboard",
-      "id": "22987EC4-D3F6-42FB-9D8D-4BAAE50EA7B7"
+      "class": "group",
+      "id": "E8BC305D-3FD7-4770-AE02-8BCA7D96370F"
+    },
+    {
+      "class": "group",
+      "id": "8CE47EE3-2568-43CC-8FF2-741778D6F756"
+    },
+    {
+      "class": "group",
+      "id": "AF4313EC-2F25-45AC-9F8F-630AB4EC1CDF"
+    },
+    {
+      "class": "group",
+      "id": "CBFDAC6E-6F35-4E66-99DA-E2A0BAEC08E5"
     }
   ],
-  "name": "Page 1",
+  "name": "전문가 / 메인 / 수신번호 변경하기 / 변경완료",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -87,7 +117,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4A6656D2-51C7-4DD8-87E0-FB5A7920E955",
+    "do_objectID": "7DEC0DA0-5543-417D-930A-5EDB8CE8ED5D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -101,7 +131,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

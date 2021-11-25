@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7e2af800-4db4-11ec-9db2-c57428f6ae69",
+  "do_objectID": "0DDE35D8-D665-4F7B-97A7-D8A5EBE79D13",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,23 +14,17 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 40.02262791481962,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -39,18 +33,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AC6FC84C-BEA0-4F56-9500-4426C9CE2B74"
+      "class": "shapePath",
+      "id": "DBB83C64-AF6C-4482-8A2A-D55B9F754ECB"
     },
     {
-      "class": "artboard",
-      "id": "22987EC4-D3F6-42FB-9D8D-4BAAE50EA7B7"
+      "class": "shapePath",
+      "id": "45542B83-A900-4221-AA12-B300AFBE0491"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
-  "resizingType": 0,
+  "name": "battery",
+  "nameIsFixed": true,
+  "originalObjectID": "4E20AB97-2153-4796-BF65-C207EF4CB724",
+  "resizingConstraint": 45,
+  "resizingType": 3,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
@@ -79,7 +74,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -87,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4A6656D2-51C7-4DD8-87E0-FB5A7920E955",
+    "do_objectID": "A14ED992-E9CC-46FD-BD9D-4D1C81DBBB2F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,11 +93,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7e2af800-4db4-11ec-9db2-c57428f6ae69",
+  "do_objectID": "49DEDC4E-CEE5-4348-B80B-DD1DEBAAE5E2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,22 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 24,
+    "width": 24,
+    "x": 16,
+    "y": 15.99999999999999
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -39,15 +33,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AC6FC84C-BEA0-4F56-9500-4426C9CE2B74"
-    },
-    {
-      "class": "artboard",
-      "id": "22987EC4-D3F6-42FB-9D8D-4BAAE50EA7B7"
+      "class": "group",
+      "id": "CBF328BE-7504-4890-98EC-51B1189B1E03"
     }
   ],
-  "name": "Page 1",
+  "name": "002 아이콘 Icon / 01 24x24 / 01 네비게이션 / 02 닫기 / 01 활성화",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,7 +69,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -87,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4A6656D2-51C7-4DD8-87E0-FB5A7920E955",
+    "do_objectID": "A0624CDB-F0DE-4868-AC8F-355B5089E64C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -99,10 +89,40 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "A6BA0577-8F36-44E4-A5DA-132C9708CB3A",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 24,
+          "width": 24,
+          "x": 16,
+          "y": 15.99999999999999
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "54740C9F-E07E-41DE-87CD-EBE0486DFC9F",
+        "symbolID": "E59E093B-EABC-40EE-8C73-22FB942100C5"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "A6BA0577-8F36-44E4-A5DA-132C9708CB3A",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 24,
+          "width": 24,
+          "x": 16,
+          "y": 15.99999999999999
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "54740C9F-E07E-41DE-87CD-EBE0486DFC9F",
+        "symbolID": "E59E093B-EABC-40EE-8C73-22FB942100C5"
+      }
+    }
   }
 }
